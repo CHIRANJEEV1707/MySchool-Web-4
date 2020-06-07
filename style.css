@@ -1,0 +1,79 @@
+*{
+    border-radius: 20px ;
+    border: 3px solid;
+    border-color: black;
+    background-color: rgb(58,167,234);
+    border-style: dotted dashed solid double;
+}
+.profile{
+    background-color: rgb(244,129,32);
+    color: midnightblue;
+    font-style: italic;
+    font-size: x-large;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 20px;
+    text-decoration:underline;
+}
+.content{
+    background-color: rgb(255,255,255);
+    color:midnightblue; 
+    font-style: italic; 
+    font-size: x-large;
+    top: 0;
+    position: -webkit-sticky;
+    position: sticky;
+}
+.events{
+    background-color:rgb(244,129,32) ;
+color: midnightblue;
+font-style: italic;
+font-size: xx-large;
+margin-right: 300px;
+margin-left: 300px;
+padding: 20px;
+text-decoration: underline;
+}
+.program{
+    background-color: rgb(255,255,255);
+    color: midnightblue;
+    font-style: italic;
+    font-size: x-large;
+}
+.about{
+    background-color: rgb(244,129,32);
+color: midnightblue;
+font-style: italic;
+font-size: xx-large;
+margin-left: 300px;
+margin-right: 300px;
+padding: 20px;
+text-decoration: underline;
+}
+.info{
+    color: midnightblue;
+    font-style: italic;
+    font-size: x-large;
+}
+
+a:link{
+    background-color: orange;
+    color: white;
+}
+
+a:visited{
+    background-color:rgb(255, 255, 255);
+    color: black;
+    opacity: 0.5;
+}
+
+a:hover{
+    background-color:rgb(58,167,234) ;
+    color: white;
+    text-decoration: underline;
+}
+a:active{
+    color: yellow;
+}
+
+
